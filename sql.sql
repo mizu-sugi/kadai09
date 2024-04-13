@@ -1,0 +1,1 @@
+INSERT INTO company_interview(id,name,email,employees,bottlenecks,conditions,memo,indate)VALUES(NULL, 'test1', 'test1@test.jp', 1, 1, 1, 'test', sysdate());
